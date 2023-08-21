@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Welcome to my Python world</h1>
-    <video src="git.html" autoplay width="25%"> </video>
-    <img src="night mountain.jpg" width="25%" alt="night">
+        <video src="boy lap.mp4" autoplay width="25%" loop> </video>
+        <img src="night mountain.jpg" width="25%" alt="night">
 </body>
 </html>
